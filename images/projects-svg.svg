@@ -1,0 +1,18 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72" width="72" height="72">
+	<title>projects-svg</title>
+	<style>
+		.s0 { fill: none;stroke: #000000;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2 } 
+	</style>
+	<filter id="f0">
+		<feFlood flood-color="#ffffff" flood-opacity="1" />
+		<feBlend mode="normal" in2="SourceGraphic"/>
+		<feComposite in2="SourceAlpha" operator="in" />
+	</filter>
+	<g filter="url(#f0)">
+		<path fill-rule="evenodd" class="s0" d="m36 61h-25l5-40h2.6"/>
+		<path fill-rule="evenodd" class="s0" d="m25.7 21h10.3"/>
+		<path fill-rule="evenodd" class="s0" d="m36 61h25l-5-40h-2.6"/>
+		<path fill-rule="evenodd" class="s0" d="m46.3 21h-10.3"/>
+		<path fill-rule="evenodd" class="s0" d="m22 27.7v-6.7c0-7.7 6.3-14 14.1-14 7.7 0 14 6.3 14 14v6.7"/>
+	</g>
+</svg>
