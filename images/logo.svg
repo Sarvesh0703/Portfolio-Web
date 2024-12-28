@@ -1,0 +1,7 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 32" width="28" height="32">
+	<title>diamond</title>
+	<style>
+		.s0 { fill: #dd127f } 
+	</style>
+	<path fill-rule="evenodd" class="s0" d="m27.9 11.2l-13.9 17.6-13.6-17.1-0.4-0.5 0.5-0.5 6.3-7.5h14.4l6.3 7.5c0 0 0.4 0.5 0.4 0.5zm-7.2-6.9l-5.3 6.4h10.7zm-1.4-0.1h-10.9l5.5 6.4zm-17.5 6.4h10.7l-5.4-6.2zm-0.1 1l11.7 14.7v-14.7zm24.3 0h-11.6v14.7z"/>
+</svg>
