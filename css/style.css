@@ -1019,7 +1019,7 @@ nav {
 
 .contact-section textarea:focus,
 .contact-section input:focus {
-    border-color: var(--text-color);
+    border-color: #727272;
     outline: none;
     box-shadow: none;
 }
@@ -1044,7 +1044,7 @@ nav {
 
 .footer-bottom {
     text-align: center;
-    background-color: #222222;
+    background-color: rgb(47, 51, 58);
     color: #fff;
     padding: 25px 0;
 }
